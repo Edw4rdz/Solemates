@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jordan on Solemates</title>
+    <link>//localhost:1313/tags/jordan/</link>
+    <description>Recent content in Jordan on Solemates</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/jordan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jordan</title>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>Select from our Jordan collections</description>
+    </item>
+  </channel>
+</rss>
