@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/tags/our-humble-origins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>//localhost:1313/posts/papermod/papermod-installation/</link>
+      <link>//localhost:1313/posts/papermod/our-humble-origins/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
+      <guid>//localhost:1313/posts/papermod/our-humble-origins/</guid>
       <description>Our Humble Origins</description>
     </item>
   </channel>
